@@ -25,14 +25,14 @@ Click WA logo to Join Support Group ðŸ‘‡
 <br>
   <a href="https://chat.whatsapp.com/FV3XGc8Ag8F47RaXPyKTEr" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
-## Setup
+ Setup
 <div align="center">
 
   ### Simple Method
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/AnshidZx7/js-bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated&template=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated)
      </div>
 <br>
 <br >
