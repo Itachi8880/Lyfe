@@ -1,7 +1,13 @@
 <div align="center">
         <img src=605c3d671ca7790e8f292299b16dcf83.jpg alt="GIF" width="250" height="200"/>
 </p>
-
+</a>
+</p>
+<div align="center">
+ <p align="center">
+<a href="#"><img title="AnshidZx7" src="https://img.shields.io/badge/ANSHID-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
 <div align="center">
 This is a WhatsApp User Bot
 
