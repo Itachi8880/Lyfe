@@ -168,7 +168,7 @@ module.exports = {
 
     process.env.STICKER_PACKNAME === undefined
 
-      ? "🥰,lyfe00011"
+      ? "🤑,AND"
 
       : process.env.STICKER_PACKNAME,
 
