@@ -1,8 +1,4 @@
-## WhatsApp User Bot
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
-## What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 1. Click [SCAN](https://replit.com/@phaticusthiccy/WhatsAsena-QR) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
