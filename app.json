@@ -26,7 +26,7 @@
 
         "SUDO": {
 
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 918590451659 (IN)",
 
             "required": false
 
@@ -34,7 +34,7 @@
 
         "HANDLERS": {
 
-            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
+            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or AND. Using keyword like AND will broke list and help command",
 
             "required": true,
 
@@ -150,7 +150,7 @@
 
             "description": "Sticker pack name,author",
 
-            "value": "🤑,AnshidZx7"
+            "value": "🤑,AND"
 
         },
 
