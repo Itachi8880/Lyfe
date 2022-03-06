@@ -10,7 +10,7 @@
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@AnshidBot/WhatsAsena-QR-5?v=1)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnshidZx7/User-bot-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot)
 | Active | Group commands |
 | :----: | :------------- |
 |   ✔️   | Kick           |
